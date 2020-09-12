@@ -1,4 +1,4 @@
-# netlify-vs-github-pages-vs-zeit
+# Website Monitoring
 Static Site Generator Benchmarks
 
 |              |         |                |            |            |
