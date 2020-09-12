@@ -1,5 +1,12 @@
 # [Indian E-commerce Websites Performance & Quality Monitoring & Improvement Project](https://webpagetest.ecommerce.india.himalayanwolf.in/)
-Static Site Generator Benchmarks
+
+# Next Generation E-commerce Product Pages
+- Static Site Generators
+  - Gatsby
+- Hosting & CDN
+  - Github Pages
+  - Netlify
+  - Zeit
 
 |              |         |                |            |            |
 |--------------|---------|----------------|------------|------------|
